@@ -1,0 +1,139 @@
+gml_id,spatial_name,spatial_alias,spatial_type,BZR_NAME,PGR_NAME,BEZNAME,DATUM,SHAPE_AREA
+re_bezirksregion.010111,010111,Tiergarten Süd,Polygon,Tiergarten Süd,Zentrum,Mitte,2007-10-26T00:00:00,5171461.96417612
+re_bezirksregion.010112,010112,Regierungsviertel,Polygon,Regierungsviertel,Zentrum,Mitte,2007-10-26T00:00:00,2691032.37705494
+re_bezirksregion.010113,010113,Alexanderplatz,Polygon,Alexanderplatz,Zentrum,Mitte,2007-10-26T00:00:00,6228902.70757808
+re_bezirksregion.010114,010114,Brunnenstr. Süd,Polygon,Brunnenstraße Süd,Zentrum,Mitte,2007-10-26T00:00:00,1753345.30883474
+re_bezirksregion.010221,010221,Moabit West,Polygon,Moabit West,Moabit,Mitte,2007-10-26T00:00:00,4329255.71500918
+re_bezirksregion.010222,010222,Moabit Ost,Polygon,Moabit Ost,Moabit,Mitte,2007-10-26T00:00:00,3910282.40904959
+re_bezirksregion.010331,010331,Osloer Straße,Polygon,Osloer Straße,Gesundbrunnen,Mitte,2007-10-26T00:00:00,2364708.2890845
+re_bezirksregion.010332,010332,Brunnenstr. Nord,Polygon,Brunnenstraße Nord,Gesundbrunnen,Mitte,2007-10-26T00:00:00,3388544.10164534
+re_bezirksregion.010441,010441,Parkviertel,Polygon,Parkviertel,Wedding,Mitte,2007-10-26T00:00:00,7119523.1645775
+re_bezirksregion.010442,010442,Wedding Zentrum,Polygon,Wedding Zentrum,Wedding,Mitte,2007-10-26T00:00:00,2492111.15696356
+re_bezirksregion.020101,020101,Südliche Friedrichstadt,Polygon,Südliche Friedrichstadt,Kreuzberg Nord,Friedrichshain-Kreuzberg,2007-10-26T00:00:00,2929464.74531043
+re_bezirksregion.020202,020202,Tempelhofer Vorstadt,Polygon,Tempelhofer Vorstadt,Kreuzberg Süd,Friedrichshain-Kreuzberg,2007-10-26T00:00:00,4754026.17213266
+re_bezirksregion.020303,020303,Nördliche Luisenstadt,Polygon,Nördliche Luisenstadt,Kreuzberg Ost,Friedrichshain-Kreuzberg,2007-10-26T00:00:00,1302530.72725755
+re_bezirksregion.020304,020304,Südliche Luisenstadt,Polygon,Südliche Luisenstadt,Kreuzberg Ost,Friedrichshain-Kreuzberg,2007-10-26T00:00:00,1458827.26325683
+re_bezirksregion.020405,020405,Karl-Marx-Allee Nord,Polygon,Karl-Marx-Allee Nord,Friedrichshain West,Friedrichshain-Kreuzberg,2007-10-26T00:00:00,2169425.71071674
+re_bezirksregion.020407,020407,Karl-Marx-Allee Süd,Polygon,Karl-Marx-Allee Süd,Friedrichshain West,Friedrichshain-Kreuzberg,2007-10-26T00:00:00,2407641.40377688
+re_bezirksregion.020506,020506,Frankfurter Allee Nord,Polygon,Frankfurter Allee Nord,Friedrichshain Ost,Friedrichshain-Kreuzberg,2007-10-26T00:00:00,1279191.15755819
+re_bezirksregion.020508,020508,Frankfurter Allee Süd FK,Polygon,Frankfurter Allee Süd FK,Friedrichshain Ost,Friedrichshain-Kreuzberg,2007-10-26T00:00:00,4087418.77483745
+re_bezirksregion.030101,030101,Buch,Polygon,Buch,Buch,Pankow,2007-10-26T00:00:00,22972706.7042288
+re_bezirksregion.030202,030202,Blankenfelde/Niederschönhausen,Polygon,Blankenfelde/Niederschönhausen,Nördliches Pankow,Pankow,2007-10-26T00:00:00,19655680.8859306
+re_bezirksregion.030203,030203,Buchholz,Polygon,Buchholz,Nördliches Pankow,Pankow,2007-10-26T00:00:00,6465856.51503668
+re_bezirksregion.030304,030304,Karow,Polygon,Karow,Nördliches Weißensee,Pankow,2007-10-26T00:00:00,6606114.31351076
+re_bezirksregion.030307,030307,Blankenburg/Heinersdorf/Märchenland,Polygon,Blankenburg/Heinersdorf/Märchenland,Nördliches Weißensee,Pankow,2007-10-26T00:00:00,15609872.321766
+re_bezirksregion.030405,030405,Rosenthal,Polygon,Schönholz/Wilhelmsruh/Rosenthal,Südliches Pankow,Pankow,2007-10-26T00:00:00,5875105.21105368
+re_bezirksregion.030406,030406,Pankow Zentrum,Polygon,Pankow Zentrum,Südliches Pankow,Pankow,2007-10-26T00:00:00,3938541.94556357
+re_bezirksregion.030408,030408,Pankow Süd,Polygon,Pankow Süd,Südliches Pankow,Pankow,2007-10-26T00:00:00,3029649.25288125
+re_bezirksregion.030509,030509,Weißensee,Polygon,Weißensee,Südliches Weißensee,Pankow,2007-10-26T00:00:00,4228588.1413383
+re_bezirksregion.030510,030510,Weißensee Ost,Polygon,Weißensee Ost,Südliches Weißensee,Pankow,2007-10-26T00:00:00,3708110.03719561
+re_bezirksregion.030611,030611,Prenzlauer Berg Nordwest,Polygon,Prenzlauer Berg Nordwest,Nördlicher Prenzlauer Berg,Pankow,2007-10-26T00:00:00,1859490.22341227
+re_bezirksregion.030612,030612,Prenzlauer Berg Nord,Polygon,Prenzlauer Berg Nord,Nördlicher Prenzlauer Berg,Pankow,2007-10-26T00:00:00,1659275.25774907
+re_bezirksregion.030613,030613,Helmholtzplatz,Polygon,Helmholtzplatz,Nördlicher Prenzlauer Berg,Pankow,2007-10-26T00:00:00,713457.950581217
+re_bezirksregion.030614,030614,Prenzlauer Berg Ost,Polygon,Prenzlauer Berg Ost,Nördlicher Prenzlauer Berg,Pankow,2007-10-26T00:00:00,3744606.58326382
+re_bezirksregion.030715,030715,Prenzlauer Berg Südwest,Polygon,Prenzlauer Berg Südwest,Südlicher Prenzlauer Berg,Pankow,2007-10-26T00:00:00,1369436.90855788
+re_bezirksregion.030716,030716,Prenzlauer Berg Süd,Polygon,Prenzlauer Berg Süd,Südlicher Prenzlauer Berg,Pankow,2007-10-26T00:00:00,1657199.06731355
+re_bezirksregion.040101,040101,Charlottenburg Nord,Polygon,Charlottenburg Nord,CW 1,Charlottenburg-Wilmersdorf,2007-10-26T00:00:00,5789938.21363959
+re_bezirksregion.040202,040202,Heerstraße,Polygon,Heerstraße,CW 2,Charlottenburg-Wilmersdorf,2007-10-26T00:00:00,7690640.29768997
+re_bezirksregion.040203,040203,Westend,Polygon,Westend,CW 2,Charlottenburg-Wilmersdorf,2007-10-26T00:00:00,5916778.91550733
+re_bezirksregion.040304,040304,Schloß Charlottenburg,Polygon,Schloß Charlottenburg,CW 3,Charlottenburg-Wilmersdorf,2007-10-26T00:00:00,2297596.97232081
+re_bezirksregion.040305,040305,Mierendorfplatz,Polygon,Mierendorffplatz,CW 3,Charlottenburg-Wilmersdorf,2007-10-26T00:00:00,1893594.92399542
+re_bezirksregion.040306,040306,Otto-Suhr-Allee,Polygon,Otto-Suhr-Allee,CW 3,Charlottenburg-Wilmersdorf,2007-10-26T00:00:00,2758466.91353871
+re_bezirksregion.040307,040307,Neue Kantstraße,Polygon,Neue Kantstraße,CW 3,Charlottenburg-Wilmersdorf,2007-10-26T00:00:00,1488053.51430739
+re_bezirksregion.040308,040308,Kantstraße,Polygon,Kantstraße,CW 3,Charlottenburg-Wilmersdorf,2007-10-26T00:00:00,1122287.20662675
+re_bezirksregion.040309,040309,Kurfürstendamm,Polygon,Kurfürstendamm,CW 3,Charlottenburg-Wilmersdorf,2007-10-26T00:00:00,1367839.56802907
+re_bezirksregion.040310,040310,Halensee,Polygon,Halensee,CW 3,Charlottenburg-Wilmersdorf,2007-10-26T00:00:00,1226774.12703851
+re_bezirksregion.040411,040411,Grunewald,Polygon,Grunewald,CW 4,Charlottenburg-Wilmersdorf,2007-10-26T00:00:00,4956112.15719358
+re_bezirksregion.040412,040412,Schmargendorf,Polygon,Schmargendorf,CW 4,Charlottenburg-Wilmersdorf,2007-10-26T00:00:00,2705444.70174583
+re_bezirksregion.040413,040413,Wiesbadener Straße,Polygon,Wiesbadener Straße,CW 4,Charlottenburg-Wilmersdorf,2007-10-26T00:00:00,1375888.69319392
+re_bezirksregion.040514,040514,Düsseldorfer Straße,Polygon,Düsseldorfer Straße,CW 5,Charlottenburg-Wilmersdorf,2007-10-26T00:00:00,2287581.98325271
+re_bezirksregion.040515,040515,Barstraße,Polygon,Barstraße,CW 5,Charlottenburg-Wilmersdorf,2007-10-26T00:00:00,1336717.44390262
+re_bezirksregion.040516,040516,Wilmersdorf,Polygon,Volkspark Wilmersdorf,CW 5,Charlottenburg-Wilmersdorf,2007-10-26T00:00:00,1994774.57375871
+re_bezirksregion.040617,040617,Forst Grunewald,Polygon,Forst Grunewald,CW 6,Charlottenburg-Wilmersdorf,2007-10-26T00:00:00,18455165.8608275
+re_bezirksregion.050101,050101,Hakenfelde,Polygon,Hakenfelde,SPA 1,Spandau,2007-10-26T00:00:00,19956186.017824
+re_bezirksregion.050102,050102,Falkenhagener Feld,Polygon,Falkenhagener Feld,SPA 1,Spandau,2007-10-26T00:00:00,6970595.1562269
+re_bezirksregion.050103,050103,Spandau Mitte,Polygon,Spandau Mitte,SPA 1,Spandau,2007-10-26T00:00:00,6608171.3439185
+re_bezirksregion.050204,050204,Brunsbütteler Damm,Polygon,Brunsbütteler Damm,SPA 2,Spandau,2007-10-26T00:00:00,7088341.53574052
+re_bezirksregion.050205,050205,Heerstraße Nord,Polygon,Heerstraße Nord,SPA 2,Spandau,2007-10-26T00:00:00,7355131.31947772
+re_bezirksregion.050206,050206,Wilhelmstadt,Polygon,Wilhelmstadt,SPA 2,Spandau,2007-10-26T00:00:00,8594447.94940567
+re_bezirksregion.050307,050307,Haselhorst,Polygon,Haselhorst,SPA 3,Spandau,2007-10-26T00:00:00,4723949.5277676
+re_bezirksregion.050308,050308,Siemensstadt,Polygon,Siemensstadt,SPA 3,Spandau,2007-10-26T00:00:00,5658952.20866035
+re_bezirksregion.050409,050409,Gatow/Kladow,Polygon,Gatow/Kladow,SPA 4,Spandau,2007-10-26T00:00:00,24881124.7030651
+re_bezirksregion.060101,060101,Schloßstraße,Polygon,Schloßstraße,Region A,Steglitz-Zehlendorf,2007-10-26T00:00:00,1938781.00413722
+re_bezirksregion.060102,060102,Albrechtstraße,Polygon,Albrechtstraße,Region A,Steglitz-Zehlendorf,2007-10-26T00:00:00,4843609.89785328
+re_bezirksregion.060203,060203,Lankwitz,Polygon,Lankwitz,Region B,Steglitz-Zehlendorf,2007-10-26T00:00:00,6986442.70626584
+re_bezirksregion.060204,060204,Ostpreußendamm,Polygon,Ostpreußendamm,Region B,Steglitz-Zehlendorf,2007-10-26T00:00:00,7942102.33260133
+re_bezirksregion.060305,060305,Teltower Damm,Polygon,Teltower Damm,Region C,Steglitz-Zehlendorf,2007-10-26T00:00:00,8059805.32828766
+re_bezirksregion.060306,060306,Drakestraße,Polygon,Drakestraße,Region C,Steglitz-Zehlendorf,2007-10-26T00:00:00,10279860.6021099
+re_bezirksregion.060407,060407,Zehlendorf  Südwest,Polygon,Zehlendorf Südwest,Region D,Steglitz-Zehlendorf,2007-10-26T00:00:00,43339150.9737937
+re_bezirksregion.060408,060408,Zehlendorf  Nord,Polygon,Zehlendorf Nord,Region D,Steglitz-Zehlendorf,2007-10-26T00:00:00,19125415.4781214
+re_bezirksregion.070101,070101,Schöneberg Nord,Polygon,Schöneberg Nord,Schöneberg Nord,Tempelhof-Schöneberg,2007-10-26T00:00:00,2845721.98007897
+re_bezirksregion.070202,070202,Schöneberg Süd,Polygon,Schöneberg Süd,Schöneberg Süd,Tempelhof-Schöneberg,2007-10-26T00:00:00,3355327.37824546
+re_bezirksregion.070303,070303,Friedenau,Polygon,Friedenau,Friedenau,Tempelhof-Schöneberg,2007-10-26T00:00:00,4603582.96898167
+re_bezirksregion.070404,070404,Tempelhof,Polygon,Tempelhof,Tempelhof,Tempelhof-Schöneberg,2007-10-26T00:00:00,13663878.6948533
+re_bezirksregion.070505,070505,Mariendorf,Polygon,Mariendorf,Mariendorf,Tempelhof-Schöneberg,2007-10-26T00:00:00,9369542.28640453
+re_bezirksregion.070606,070606,Marienfelde,Polygon,Marienfelde,Marienfelde,Tempelhof-Schöneberg,2007-10-26T00:00:00,9140248.05139021
+re_bezirksregion.070707,070707,Lichtenrade,Polygon,Lichtenrade,Lichtenrade,Tempelhof-Schöneberg,2007-10-26T00:00:00,10045345.2316857
+re_bezirksregion.080101,080101,Schillerpromenade,Polygon,Schillerpromenade,Neukölln,Neukölln,2007-10-26T00:00:00,2948715.56489856
+re_bezirksregion.080102,080102,Neuköllner Mitte/Zentrum,Polygon,Neuköllner Mitte/Zentrum,Neukölln,Neukölln,2007-10-26T00:00:00,1935605.29263888
+re_bezirksregion.080103,080103,Reuterstraße,Polygon,Reuterstraße,Neukölln,Neukölln,2007-10-26T00:00:00,1425392.92290357
+re_bezirksregion.080104,080104,Rixdorf,Polygon,Rixdorf,Neukölln,Neukölln,2007-10-26T00:00:00,2071696.18164698
+re_bezirksregion.080105,080105,Köllnische Heide,Polygon,Köllnische Heide,Neukölln,Neukölln,2007-10-26T00:00:00,3316724.36387963
+re_bezirksregion.080206,080206,Britz,Polygon,Britz,Britz/Buckow,Neukölln,2007-10-26T00:00:00,12520120.8954795
+re_bezirksregion.080207,080207,Buckow,Polygon,Buckow,Britz/Buckow,Neukölln,2007-10-26T00:00:00,4595266.13193752
+re_bezirksregion.080308,080308,Gropiusstadt,Polygon,Gropiusstadt,Gropiusstadt,Neukölln,2007-10-26T00:00:00,2656239.68791923
+re_bezirksregion.080409,080409,Buckow Nord,Polygon,Buckow Nord,Buckow Nord/Rudow,Neukölln,2007-10-26T00:00:00,1400503.29047802
+re_bezirksregion.080410,080410,Rudow,Polygon,Rudow,Buckow Nord/Rudow,Neukölln,2007-10-26T00:00:00,12038077.8458175
+re_bezirksregion.090101,090101,Alt-Treptow,Polygon,Alt-Treptow,Treptow-Köpenick 1,Treptow-Köpenick,2007-10-26T00:00:00,2312261.87241419
+re_bezirksregion.090102,090102,Plänterwald,Polygon,Plänterwald,Treptow-Köpenick 1,Treptow-Köpenick,2007-10-26T00:00:00,3000160.75425414
+re_bezirksregion.090103,090103,Baumschulenweg,Polygon,Baumschulenweg,Treptow-Köpenick 1,Treptow-Köpenick,2007-10-26T00:00:00,4832574.12249376
+re_bezirksregion.090104,090104,Johannisthal,Polygon,Johannisthal,Treptow-Köpenick 1,Treptow-Köpenick,2007-10-26T00:00:00,6477604.364709
+re_bezirksregion.090205,090205,Oberschöneweide,Polygon,Oberschöneweide,Treptow-Köpenick 2,Treptow-Köpenick,2007-10-26T00:00:00,7927166.94395287
+re_bezirksregion.090206,090206,Niederschöneweide,Polygon,Niederschöneweide,Treptow-Köpenick 2,Treptow-Köpenick,2007-10-26T00:00:00,3495527.90206519
+re_bezirksregion.090207,090207,Adlershof,Polygon,Adlershof,Treptow-Köpenick 2,Treptow-Köpenick,2007-10-26T00:00:00,6157262.75729067
+re_bezirksregion.090208,090208,Köllnische Vorstadt/Spindlersfeld,Polygon,Köllnische Vorstadt/Spindlersfeld,Treptow-Köpenick 2,Treptow-Köpenick,2007-10-26T00:00:00,2126607.73583366
+re_bezirksregion.090309,090309,Altglienicke,Polygon,Altglienicke,Treptow-Köpenick 3,Treptow-Köpenick,2007-10-26T00:00:00,7730807.50300166
+re_bezirksregion.090310,090310,Bohnsdorf,Polygon,Bohnsdorf,Treptow-Köpenick 3,Treptow-Köpenick,2007-10-26T00:00:00,6659446.61354992
+re_bezirksregion.090311,090311,Grünau,Polygon,Grünau,Treptow-Köpenick 3,Treptow-Köpenick,2007-10-26T00:00:00,9167243.8755515
+re_bezirksregion.090312,090312,Schmöckwitz/Karolinenhof/Rauchfangswerder,Polygon,Schmöckwitz/Karolinenhof/Rauchfangswerder,Treptow-Köpenick 3,Treptow-Köpenick,2007-10-26T00:00:00,17118169.2207574
+re_bezirksregion.090413,090413,Köpenick Süd,Polygon,Köpenick Süd,Treptow-Köpenick 4,Treptow-Köpenick,2007-10-26T00:00:00,20306894.1597567
+re_bezirksregion.090414,090414,Allende-Viertel,Polygon,Allende-Viertel,Treptow-Köpenick 4,Treptow-Köpenick,2007-10-26T00:00:00,1077656.9532606
+re_bezirksregion.090415,090415,Altstadt-Kietz,Polygon,Altstadt Kietz,Treptow-Köpenick 4,Treptow-Köpenick,2007-10-26T00:00:00,832398.775789994
+re_bezirksregion.090416,090416,Müggelheim,Polygon,Müggelheim,Treptow-Köpenick 4,Treptow-Köpenick,2007-10-26T00:00:00,22184511.6554503
+re_bezirksregion.090517,090517,Friedrichshagen,Polygon,Friedrichshagen,Treptow-Köpenick 5,Treptow-Köpenick,2007-10-26T00:00:00,14034663.0484026
+re_bezirksregion.090518,090518,Rahnsdorf/Hessenwinkel,Polygon,Rahnsdorf/Hessenwinkel,Treptow-Köpenick 5,Treptow-Köpenick,2007-10-26T00:00:00,21438450.4831167
+re_bezirksregion.090519,090519,Dammvorstadt,Polygon,Dammvorstadt,Treptow-Köpenick 5,Treptow-Köpenick,2007-10-26T00:00:00,2783293.87239431
+re_bezirksregion.090520,090520,Köpenick Nord,Polygon,Köpenick Nord,Treptow-Köpenick 5,Treptow-Köpenick,2007-10-26T00:00:00,7966682.46124869
+re_bezirksregion.100101,100101,Marzahn Nord,Polygon,Marzahn Nord,Marzahn,Marzahn-Hellersdorf,2007-10-26T00:00:00,2593678.5903915
+re_bezirksregion.100102,100102,Marzahn Mitte,Polygon,Marzahn Mitte,Marzahn,Marzahn-Hellersdorf,2007-10-26T00:00:00,7890067.9207859
+re_bezirksregion.100103,100103,Marzahn Süd,Polygon,Marzahn Süd,Marzahn,Marzahn-Hellersdorf,2007-10-26T00:00:00,9048617.03497281
+re_bezirksregion.100204,100204,Hellersdorf Nord,Polygon,Hellersdorf Nord,Hellersdorf,Marzahn-Hellersdorf,2007-10-26T00:00:00,3597797.98088127
+re_bezirksregion.100205,100205,Hellersdorf Ost,Polygon,Hellersdorf Ost,Hellersdorf,Marzahn-Hellersdorf,2007-10-26T00:00:00,2112985.22232716
+re_bezirksregion.100206,100206,Hellersdorf Süd,Polygon,Hellersdorf Süd,Hellersdorf,Marzahn-Hellersdorf,2007-10-26T00:00:00,2407399.01844109
+re_bezirksregion.100307,100307,Biesdorf,Polygon,Biesdorf,Biesdorf,Marzahn-Hellersdorf,2007-10-26T00:00:00,12401209.8253162
+re_bezirksregion.100408,100408,Kaulsdorf,Polygon,Kaulsdorf,Kaulsdorf/Mahlsdorf,Marzahn-Hellersdorf,2007-10-26T00:00:00,8757560.60385979
+re_bezirksregion.100409,100409,Mahlsdorf,Polygon,Mahlsdorf,Kaulsdorf/Mahlsdorf,Marzahn-Hellersdorf,2007-10-26T00:00:00,12973974.9458315
+re_bezirksregion.110101,110101,"Malchow, Wartenberg und Falkenberg",Polygon,"Malchow, Wartenberg und Falkenberg",Hohenschönhausen Nord,Lichtenberg,2007-10-26T00:00:00,11504036.4298621
+re_bezirksregion.110102,110102,Neu-Hohenschönhausen Nord,Polygon,Neu-Hohenschönhausen Nord,Hohenschönhausen Nord,Lichtenberg,2007-10-26T00:00:00,2800860.78143828
+re_bezirksregion.110103,110103,Neu-Hohenschönhausen Süd,Polygon,Neu-Hohenschönhausen Süd,Hohenschönhausen Nord,Lichtenberg,2007-10-26T00:00:00,2338474.74595815
+re_bezirksregion.110204,110204,Alt-Hohenschönhause Nord,Polygon,Alt-Hohenschönhausen Nord,Hohenschönhausen Süd,Lichtenberg,2007-10-26T00:00:00,4751285.89031634
+re_bezirksregion.110205,110205,Alt-Hohenschönhausen Süd,Polygon,Alt-Hohenschönhausen Süd,Hohenschönhausen Süd,Lichtenberg,2007-10-26T00:00:00,4596908.92417433
+re_bezirksregion.110306,110306,Fennpfuhl,Polygon,Fennpfuhl,Lichtenberg Nord,Lichtenberg,2007-10-26T00:00:00,2141234.12270526
+re_bezirksregion.110307,110307,Alt-Lichtenberg,Polygon,Alt-Lichtenberg,Lichtenberg Nord,Lichtenberg,2007-10-26T00:00:00,6347868.65125169
+re_bezirksregion.110308,110308,Frankfurter Allee Süd,Polygon,Frankfurter Allee Süd,Lichtenberg Nord,Lichtenberg,2007-10-26T00:00:00,1053074.11922296
+re_bezirksregion.110409,110409,Neu-Lichtenberg,Polygon,Neu-Lichtenberg,Lichtenberg Mitte,Lichtenberg,2007-10-26T00:00:00,2634707.14284999
+re_bezirksregion.110410,110410,Friedrichsfelde Nord,Polygon,Friedrichsfelde Nord,Lichtenberg Mitte,Lichtenberg,2007-10-26T00:00:00,2744448.49456313
+re_bezirksregion.110411,110411,Friedrichsfelde Süd,Polygon,Friedrichsfelde Süd,Lichtenberg Mitte,Lichtenberg,2007-10-26T00:00:00,2214775.51528065
+re_bezirksregion.110512,110512,Rummelsburger Bucht,Polygon,Rummelsburger Bucht,Lichtenberg Süd,Lichtenberg,2007-10-26T00:00:00,2382375.18460534
+re_bezirksregion.110513,110513,Karlshorst,Polygon,Karlshorst,Lichtenberg Süd,Lichtenberg,2007-10-26T00:00:00,6584431.21021665
+re_bezirksregion.121031,121031,Ost 1 - Reginhardstraße,Polygon,Ost 1 - Reginhardstr.,Reinickendorf Ost,Reinickendorf,2014-08-29T00:00:00,2309175.26943958
+re_bezirksregion.121032,121032,Ost 2 - Alt-Reinickendorf,Polygon,Ost 2 Alt-Reinickendorf,Reinickendorf Ost,Reinickendorf,2014-08-29T00:00:00,5248236.61523614
+re_bezirksregion.122141,122141,West 1 - Tegel-Süd/Flughafensee,Polygon,West 1 Tegel-Süd/Flughafensee,Tegel,Reinickendorf,2014-08-29T00:00:00,13023286.0004916
+re_bezirksregion.122144,122144,West 4 - Auguste-Viktoria-Allee,Polygon,West 4 - Auguste-Viktoria-Allee,Tegel,Reinickendorf,2014-08-29T00:00:00,2918284.96445387
+re_bezirksregion.122145,122145,West 5 - Tegel/Tegeler Forst,Polygon,West 5 - Tegel/Tegeler Forst,Tegel,Reinickendorf,2014-08-29T00:00:00,18370734.7627562
+re_bezirksregion.122242,122242,West 2 - Heiligensee/Konradshöhe,Polygon,West 2 - Heiligensee/Konradshöhe,Heiligensee/Konradshöhe,Reinickendorf,2014-08-29T00:00:00,12869079.7004864
+re_bezirksregion.122311,122311,Nord 1 - Frohnau/Hermsdorf,Polygon,Nord 1 - Frohnau/Hermsdorf,Frohnau/Hermsdorf,Reinickendorf,2014-08-29T00:00:00,13890888.1108765
+re_bezirksregion.123012,123012,Nord 2 - Waidmannslust/Wittenau/Lübars,Polygon,Nord 2 - Waidmannslust/Wittenau/Lübars,Waidmannslust,Reinickendorf,2014-08-29T00:00:00,11792198.7311522
+re_bezirksregion.123021,123021,MV 1 - Märkisches Viertel,Polygon,MV 1 - Märkisches Viertel,Waidmannslust,Reinickendorf,2014-08-29T00:00:00,3146633.56356868
+re_bezirksregion.123022,123022,MV 2 - Rollbergesiedlung,Polygon,MV 2 - Rollbergesiedlung,Waidmannslust,Reinickendorf,2014-08-29T00:00:00,1634639.93209581
+re_bezirksregion.123043,123043,West 3 - Borsigwalde/Freie Scholle,Polygon,West 3 - Borsigwalde/Freie Scholle,Waidmannslust,Reinickendorf,2014-08-29T00:00:00,4076048.98127133
